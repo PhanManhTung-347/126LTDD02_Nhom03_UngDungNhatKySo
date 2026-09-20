@@ -17,7 +17,7 @@
 **Xây dựng ứng dụng nhật ký số lưu trữ và quản lý hoạt động, khoảnh khắc cá nhân**
 
 ### 👨‍💻 5. Thành viên
-**Nguyễn Hữu Tú**
+**Nguyễn Hữu Tú** <br>
 **Phan Mạnh Tùng**
 ### 📝 6. Mô tả đề tài
 
