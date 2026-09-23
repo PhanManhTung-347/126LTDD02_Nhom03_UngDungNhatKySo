@@ -27,7 +27,7 @@ Người dùng có thể viết nhật ký, ghi lại các hoạt động cùng 
 
 Ứng dụng tích hợp **GPS** để ghi nhận hành trình di chuyển trong ngày và vị trí của các khoảnh khắc. Người dùng có thể xem lại hành trình trên bản đồ, từ đó dễ dàng nhớ lại mình đã đi đâu, thực hiện hoạt động gì và lưu lại những khoảnh khắc nào trong ngày.
 
-Ngoài ra, ứng dụng hỗ trợ quản lý nhật ký theo ngày, thư viện khoảnh khắc, tìm kiếm và thống kê thông tin cá nhân.
+Ngoài ra, ứng dụng hỗ trợ **quản lý nhật ký theo ngày, thư viện khoảnh khắc, tìm kiếm và thống kê thông tin cá nhân**.
 
 ### ✨ 7. Chức năng chính
 
